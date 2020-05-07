@@ -10,7 +10,7 @@
   <packaging>sonar-plugin</packaging>
   <properties>
     <!-- Plugin versions -->
-    <plugin.maven-dependency-plugin.version>2.10</plugin.maven-dependency-plugin.version>
+    <plugin.maven-dependency-plugin.version>3.1.2</plugin.maven-dependency-plugin.version>
     <plugin.sonar-packaging-maven-plugin.version>1.15</plugin.sonar-packaging-maven-plugin.version>
     <!-- Libraries versions -->
     <lib.sonar-plugin-api.version>5.2</lib.sonar-plugin-api.version>
