@@ -11,7 +11,7 @@
   <properties>
     <!-- Plugin versions -->
     <plugin.maven-dependency-plugin.version>2.10</plugin.maven-dependency-plugin.version>
-    <plugin.sonar-packaging-maven-plugin.version>1.15</plugin.sonar-packaging-maven-plugin.version>
+    <plugin.sonar-packaging-maven-plugin.version>1.19.0.397</plugin.sonar-packaging-maven-plugin.version>
     <!-- Libraries versions -->
     <lib.sonar-plugin-api.version>5.2</lib.sonar-plugin-api.version>
     <lib.sonar-java-plugin.version>3.7.1</lib.sonar-java-plugin.version>
