@@ -13,7 +13,7 @@
     <plugin.maven-dependency-plugin.version>2.10</plugin.maven-dependency-plugin.version>
     <plugin.sonar-packaging-maven-plugin.version>1.15</plugin.sonar-packaging-maven-plugin.version>
     <!-- Libraries versions -->
-    <lib.sonar-plugin-api.version>5.2</lib.sonar-plugin-api.version>
+    <lib.sonar-plugin-api.version>8.6.0.39681</lib.sonar-plugin-api.version>
     <lib.sonar-java-plugin.version>3.7.1</lib.sonar-java-plugin.version>
     <lib.sslr-squid-bridge.version>2.6</lib.sslr-squid-bridge.version>
     <lib.guava.version>15.0</lib.guava.version>
